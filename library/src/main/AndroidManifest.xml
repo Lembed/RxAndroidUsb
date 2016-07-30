@@ -1,0 +1,5 @@
+<manifest package="com.em.rxusb"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <permission android:name="android.hardware.usb.host"></permission>
+    <uses-feature android:name="android.hardware.usb.host"/>
+</manifest>
